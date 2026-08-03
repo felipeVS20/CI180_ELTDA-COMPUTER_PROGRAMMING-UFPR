@@ -14,11 +14,17 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=felipeVS20.felipeVS20&left_color=coral&right_color=chocolate&left_text=Visitors%20of%20this%20Repository"  />
+</div>
+
+###
+
 <p data-importer="text" align="left">CI180 - Computer Programming is a class focused in learning the essentials of C++ and Portugol to understand Programming Logic</p>
 
 ###
 
-<p data-importer="text" align="left">[💫📓] This class had two exams and a final exam, the grading is calculated by the equation below:<br>$$\boxed{Grade_{final} = \frac{Exam_{1}+Exam_{2}}{2}} $$<br>-<br><br>-[===]-<br>More information about this class can be seen here:<br>✨ [https://www.inf.ufpr.br/ci208/] ✨ ⬅</p>
+<p data-importer="text" align="left">[💫📓] This class had two exams and a final exam, the grading is calculated by the equation below:<br>$$\boxed{Grade_{final} = \frac{Exam_{1}+Exam_{2}+Assignment}{3}}$$<br>$$\text{The minimum grading needed to be approved is 70 points}$$ <br>-<br><br>-[===]-<br>More information about this class can be seen here:<br>➡ ✨ [CI180 | CI208 - Computer Programming](https://www.inf.ufpr.br/ci208/) ✨ ⬅<br>➡ ✨[CI180 | CI208 - Site 2](https://www.inf.ufpr.br/murilo/ci-208/ci-208.html)✨⬅</p>
 
 ###
 
