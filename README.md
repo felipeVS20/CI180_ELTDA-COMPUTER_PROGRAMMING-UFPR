@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">[💫📓] This class had two exams and a final exam, the grading is calculated by the equation below:<br>$$Grade_{final} = \frac{Exam_{1}+Exam_{2}}{2} $$<br>-<br><br>-[===]-<br>More information about this class can be seen here:<br>✨ [https://www.inf.ufpr.br/ci208/] ✨ ⬅</p>
+<p data-importer="text" align="left">[💫📓] This class had two exams and a final exam, the grading is calculated by the equation below:<br>$$\boxed{Grade_{final} = \frac{Exam_{1}+Exam_{2}}{2}} $$<br>-<br><br>-[===]-<br>More information about this class can be seen here:<br>✨ [https://www.inf.ufpr.br/ci208/] ✨ ⬅</p>
 
 ###
 
