@@ -5,12 +5,12 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="100" src="https://cdn.discordapp.com/attachments/705530087985905697/1531754920028667944/ufpr_1000.jpg?ex=6a6a5d6f&is=6a690bef&hm=811aaa1350568779c4b5d78aa0a166035c6a73f5755a9e904fe7cddfc7317bf2"  />
+  <img data-importer="image" height="100" src="https://cdn.discordapp.com/attachments/705530087985905697/1531754920028667944/ufpr_1000.jpg?ex=6a719daf&is=6a704c2f&hm=be96eaf647c9209423e620d16af6e58d072979c0ff073a240d05e75f8f62d33d"  />
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">[🖥🎓] CI180 - Programação de Computadores UFPR</h1>
+<h1 data-importer="text" align="center">[🖥🎓] CI180/CI208 - Programação de Computadores UFPR</h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">[💫📓] This class had two exams and a final exam<br>-[===]-<br>More information about this class can be seen here:<br>✨ [https://www.inf.ufpr.br/ci208/] ✨ ⬅</p>
+<p data-importer="text" align="left">[💫📓] This class had two exams and a final exam, the grading is calculated by the equation below:<br>$$Grade_{final} = \frac{Exam_{1}+Exam_{2}}{2} $$<br>-<br><br>-[===]-<br>More information about this class can be seen here:<br>✨ [https://www.inf.ufpr.br/ci208/] ✨ ⬅</p>
 
 ###
 
@@ -49,7 +49,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="40" src="https://cdn.discordapp.com/attachments/705530087985905697/1531746020889858291/portugol_image.PNG?ex=6a6a5525&is=6a6903a5&hm=b6f3ade9b1d51914444e0e7323489a6c7c4a860bdfcd819f796bb12f5889f59a"  />
+  <img data-importer="image" height="40" src="https://cdn.discordapp.com/attachments/705530087985905697/1531746020889858291/portugol_image.PNG?ex=6a719565&is=6a7043e5&hm=1fdfbf2ebee84cf85877f582c85980295da83177624f332b23373af89405f7ef"  />
 </div>
 
 ###
